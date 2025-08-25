@@ -1,4 +1,4 @@
-# KEI
+# Kubernetes Easy Installation
 All-In-One kubernetes installation script from scratch with CNI and Helm
 
 ## Install
